@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>hitsteps</name>
+	<displayName><![CDATA[Hitsteps Ultimate Web Analytics]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Hitsteps Analytics is a powerful real time website visitor manager, it allow you to view and interact with your visitors in real time.]]></description>
+	<author><![CDATA[Hitsteps.com]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall Hitsteps?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
