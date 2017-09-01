@@ -1,5 +1,8 @@
 ![alt tag](views/img/logo-white.png)
 
+# Hitsteps plugin for Prestashop
+
+
 ## About
 
 This is a free version of Hitsteps plugin for Prestashop.
@@ -17,7 +20,7 @@ Hitsteps is compatible with all versions of PrestaShop 1.4, 1.5, 1.6 and 1.7.
 
 ## Authors
 
-* **Armin Nikdel** - *Initial wordpress plugin work* - [sanarena](https://github.com/sanarena)
+* **Armin Nikdel** - *Initial prestashop plugin work* - [sanarena](https://github.com/sanarena)
 
 ## License
 
